@@ -115,15 +115,44 @@ I believe great UI is not just design — it's an experience. Every pixel, every
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
+<!-- SECTION F: CURRENTLY LEARNING / ROADMAP -->
 
-## 🏆 GitHub Trophies
+## 🚀 Currently Learning & Roadmap
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=surendra-nath-bezawada&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=40&lines=Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Learning Tagline"/>
 
 </div>
+
+### 📌 Currently Mastering
+<p align="left">
+  <img src="https://img.shields.io/badge/React.js-Advanced-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-Exploring-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-Building-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### 🗺️ 2025 Roadmap
+
+```text
+Q1 ✅  Master React Hooks & Component Architecture
+Q2 🔄  Build Full-Stack Projects with PHP + MySQL
+Q3 🎯  Learn Node.js & REST API Development
+Q4 🌟  Dive into TypeScript & System Design
+```
+
+### 📈 Progress Tracker
+
+| Skill          | Progress                                      | Status         |
+|----------------|-----------------------------------------------|----------------|
+| HTML & CSS     | ██████████████████████ 90%                   | ✅ Strong       |
+| JavaScript     | ████████████████████░░ 80%                   | 🔄 Advancing   |
+| React.js       | ████████████████░░░░░░ 65%                   | 🔄 In Progress |
+| PHP & MySQL    | ██████████████░░░░░░░░ 55%                   | 🔄 Building    |
+| Figma / UI/UX  | ████████████████████░░ 78%                   | ✅ Comfortable  |
+| Node.js        | ████████░░░░░░░░░░░░░░ 30%                   | 🎯 Exploring   |
+| TypeScript     | ██████░░░░░░░░░░░░░░░░ 20%                   | 🎯 Next Up     |
 
 ---
 
