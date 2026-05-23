@@ -77,6 +77,7 @@ I believe great UI is not just design — it's an experience. Every pixel, every
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white" alt="Antigravity"/>
 </p>
 
 ---
@@ -98,20 +99,6 @@ I believe great UI is not just design — it's an experience. Every pixel, every
 
 <!-- SECTION E: GITHUB STATS -->
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=surendra-nath-bezawada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=surendra-nath-bezawada&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendra-nath-bezawada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages"/>
-
-</div>
 
 ---
 
@@ -136,23 +123,31 @@ I believe great UI is not just design — it's an experience. Every pixel, every
 ### 🗺️ 2025 Roadmap
 
 ```text
-Q1 ✅  Master React Hooks & Component Architecture
+Q1 ✅  Master of video Editing
 Q2 🔄  Build Full-Stack Projects with PHP + MySQL
-Q3 🎯  Learn Node.js & REST API Development
-Q4 🌟  Dive into TypeScript & System Design
+Q3 🎯  Learn UI/UX desing and API Development
+Q4 🌟  Dive into System Design
 ```
+### 🗺️ 2026 Current Roadmap
+
+```text
+Q1 ✅  Started as Web Development in Mobomo India
+Q2 🔄  Started working on UI/UX desginig part
+Q3 🎯  Learn UI/UX desing and API Development
+Q4 🌟  Driven to own business website
+
 
 ### 📈 Progress Tracker
 
 | Skill          | Progress                                      | Status         |
 |----------------|-----------------------------------------------|----------------|
-| HTML & CSS     | ██████████████████████ 90%                   | ✅ Strong       |
-| JavaScript     | ████████████████████░░ 80%                   | 🔄 Advancing   |
-| React.js       | ████████████████░░░░░░ 65%                   | 🔄 In Progress |
-| PHP & MySQL    | ██████████████░░░░░░░░ 55%                   | 🔄 Building    |
-| Figma / UI/UX  | ████████████████████░░ 78%                   | ✅ Comfortable  |
-| Node.js        | ████████░░░░░░░░░░░░░░ 30%                   | 🎯 Exploring   |
-| TypeScript     | ██████░░░░░░░░░░░░░░░░ 20%                   | 🎯 Next Up     |
+| HTML & CSS     | ██████████████████████ 90%                    | ✅ Strong      |
+| JavaScript     | ████████████████████░░ 80%                    | 🔄 Advancing   |
+| React.js       | ████████████████░░░░░░ 65%                    | 🔄 In Progress |
+| PHP & MySQL    | ██████████████░░░░░░░░ 55%                    | 🔄 Building    |
+| Figma / UI/UX  | ████████████████████░░ 78%                    | ✅ Comfortable |
+| Video Editing  | ████████████████████░░ 80%                    | 🎯 Strong      |
+| TypeScript     | ██████░░░░░░░░░░░░░░░░ 20%                    | 🎯 Next Up     |
 
 ---
 
